@@ -1,0 +1,9 @@
+{
+    "api_url": "https://alterr-api.codes/",
+    "pusher_url": "https://alterr-api.codes/broadcasting/auth"
+}
+
+{
+    "api_url": "https://api.alterr.app/",
+    "pusher_url": "https://api.alterr.app/broadcasting/auth"
+}
